@@ -1,5 +1,6 @@
-# THIS IS FOR VPS
 {
+  "//": "THIS IS FOR VPS",
+  "//2": "SERVER LOADING ...",
   "version": 2,
   "name": "vercel-xhttp-relay",
   "functions": {
@@ -13,5 +14,3 @@
   ],
   "trailingSlash": false
 }
-
-# SERVER LOADING ...
